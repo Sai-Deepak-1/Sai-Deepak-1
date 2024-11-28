@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai Deepak Perumbudur
 - 👀 I’m interested in Learning new Things , Coding Intresting Stuff. 
-- 🌱 I’m currently learning Machine Learning and Web Development.
+- 🌱 I’m currently learning Machine Learning and Spring Boot.
 - 📫 To reach me contact my Email psaideepak1@gmail.com .
 
 <!---
