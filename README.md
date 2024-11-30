@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Sai Deepak Perumbudur
-- 👀 I’m interested in Learning new Things , Coding Intresting Stuff. 
-- 🌱 I’m currently learning Machine Learning and Spring Boot.
-- 📫 To reach me contact my Email psaideepak1@gmail.com .
+# 👋 Hi, I’m Sai Deepak Perumbudur  
+
+- 🌟 **Passionate about**: Learning new technologies and building innovative software solutions.  
+- 💻 **Currently exploring**: Machine Learning and Spring Boot.  
+- 🚀 **Interests**: Coding, solving problems, and creating exciting projects.  
+- 📧 **Contact me**: [psaideepak1@gmail.com](mailto:psaideepak1@gmail.com)  
+
+Feel free to check out my repositories and connect! 😊  
+
 
 <!---
 Sai-Deepak-1/Sai-Deepak-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
